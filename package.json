@@ -1,0 +1,14 @@
+{
+  "name": "Benchmark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "bin.js",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^5.0.0",
+    "ffmpeg-progress-wrapper": "TungCuongHust/ffmpeg-progress-wrapper",
+    "node-cmd": "^3.0.0",
+    "os-utils": "0.0.14",
+    "pkg": "^4.4.7"
+  }
+}
